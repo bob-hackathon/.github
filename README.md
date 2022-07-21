@@ -1,7 +1,7 @@
-![Logo](/src-image/BoBHackathon2022Logo.png)
+![Logo](https://github.com/bob-hackathon/src-image/blob/main/BoBHackathon2022Logo.png)
 
 # Welcome to the Bank Of Baroda Hackathon 2022
-Idea and Source Code submissions for Bank Of Baroda Hackathon 2022. You can find more details here 
+Idea and Source Code submissions for Bank Of Baroda Hackathon 2022. You can find more details here : https://www.techgig.com/challenge/bank-of-baroda-hackathon-2022
 
 ### About the Hackathon
 Bank of Baroda is looking for the brightest technical minds in India to come up with new age, technology-led innovative ideas which can shape how we deliver banking services at our Bank
